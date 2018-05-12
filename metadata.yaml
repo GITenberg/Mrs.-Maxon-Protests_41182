@@ -17,6 +17,8 @@ description: 'The eponymous heroine of this 1910 novel leaves her overbearing hu
   Times : Mr. Hope has handled the subject delicately and convincingly, and makes
   plain the fact that men and women must conform to the majority opinion, right or
   wrong, or pay the penalty.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41182#Mrs.-Maxon-Protests
 gutenberg_issued: '2012-10-25'
 gutenberg_type: Text
 identifiers:
