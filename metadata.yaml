@@ -1,0 +1,34 @@
+_repo: Mrs.-Maxon-Protests_41182
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41182-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hope, Anthony
+    alias: Hawkins, Anthony Hope
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '63'
+    url: http://www.gutenberg.org/2009/agents/63
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Hope
+description: 'The eponymous heroine of this 1910 novel leaves her overbearing husband
+  and embarks on a quest to find love with a compatible partner. Said the New York
+  Times : Mr. Hope has handled the subject delicately and convincingly, and makes
+  plain the fact that men and women must conform to the majority opinion, right or
+  wrong, or pay the penalty.'
+gutenberg_issued: '2012-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41182'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Divorce -- Fiction'
+- !lcsh 'Marriage -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PR'
+title: Mrs. Maxon Protests
+url: http://www.gutenberg.org/ebooks/41182
